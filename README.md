@@ -19,7 +19,7 @@ Here's a [guide](https://gist.github.com/Yash-Garg/b328ec514f77f8519aac17136c006
 -   A proper commit history with authorship should be maintained for all of the commits being done or cherry-picked.
 -   People maintaining more than 3 ROMs won't be allowed.
 -   Applicant should have a Telegram Account to be in touch with the team.
--   Be respectful towards everyone and maintain 
+-   Be respectful towards everyone and don't spread hate.
 
 **Form can be found here:** [Maintainership Application Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdtC5marlgSWWy_bBbuZff2PANhSjqnFzaozPh4PGkm8sEUpg/viewform)
 
