@@ -9,7 +9,7 @@ And with that Goal in mind we bring you the Rom you don't think you need but the
 (Oof sigh enough with quotes you must be getting bored) . So some of you might be like, sigh yet another Rom. Ugh we get it too, but give us a shot.
 
 Our core ideology for this Project is Aesthetic we are more focused on Aesthetic but also considering the usability since Aesthetic is as much as important as Usability and Stability. 
-( shameless plug: Quote by [MENTION=5970333]Markakash[/MENTION][/CENTER][/B]
+( shameless plug: Quote by [MENTION=5970333]Markakash[/MENTION] ) [/CENTER][/B]
 
 [CODE]#include <std_disclaimer.h>
 /*
