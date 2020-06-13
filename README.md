@@ -1,6 +1,6 @@
 # Getting started with Project 404
 
-![logo](https://raw.githubusercontent.com/markakash/404_stuff/master/project404-darkbanner.jpg)
+![banner](dump/banner.png)
 
 **Having problems configuring gerrit?**
 Here's a [guide](https://gist.github.com/Yash-Garg/b328ec514f77f8519aac17136c0069d6) that will help.
