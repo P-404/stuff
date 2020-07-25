@@ -17,6 +17,7 @@ Here's a [guide](https://gist.github.com/Yash-Garg/b328ec514f77f8519aac17136c006
 
 -   Applicant should be having a good knowledge over the use of GitHub and Gerrit.
 -   A proper commit history with authorship should be maintained for all of the commits being done or cherry-picked.
+-   The [build variant](https://source.android.com/setup/build/building#choose-a-target) should be *user* (p404_device-user) instead of the regular *userdebug* (p404_device-userdebug).
 -   People maintaining more than 3 ROMs won't be allowed.
 -   Applicant should have a Telegram Account to be in touch with the team.
 -   Be respectful towards everyone and don't spread hate.
