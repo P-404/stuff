@@ -26,6 +26,6 @@ Here's a [guide](https://gist.github.com/Yash-Garg/b328ec514f77f8519aac17136c006
 
 # Contact Us
 
-**Email:** [projectnotfound404@gmail.com](projectnotfound404@gmail.com)
+**Email:** [projectnotfound404@gmail.com](mailto:projectnotfound404@gmail.com)
 
 **Telegram:** [@project_404](https://t.me/project_404)
