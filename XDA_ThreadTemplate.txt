@@ -47,7 +47,7 @@ Our core ideology for this Project is Aesthetic we are more focused on Aesthetic
 
 [B][SIZE=5]Project-404 Sources[/SIZE]
 P-404:[/B] [URL='https://github.com/P-404']Project-404[/URL]
-[B]P-404 Device Sources:[/B] [URL='https://github.com/P-404-Devices']P-404 Devices[/URL]
+[B]P-404 Device Sources:[/B] [URL='https://github.com/P404-Devices']P-404 Devices[/URL]
 
 [B][SIZE=5]Got an issue or suggestion? Reach us at[/SIZE]
 Telegram[/B]: [URL]https://t.me/project_404[/URL]
