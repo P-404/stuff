@@ -23,25 +23,32 @@ Our core ideology for this Project is Aesthetic we are more focused on Aesthetic
  */[/CODE]
 
 [CENTER][B][SIZE=5]Team Project-404[/SIZE][/B]
-[user=5970333]@Markakash[/user]
 [user=5889244]@Ayushd70[/user]
-[user=9454047]@UditKarode[/user]
-[user=7771149]@YashGarg10[/user]
+[user=9792468]@hpnightowl[/user]
+[user=5970333]@Markakash[/user]
 [user=8131258]@ojas.sinha[/user]
+[user=9454047]@UditKarode[/user]
+[user=4867044]@_undead[/user]
+[user=7771149]@YashGarg10[/user]
+
 
 [B][SIZE=5]Features[/SIZE][/B]
-- Accent Pickers
+- Battery Icon Styles
 - Advanced reboot
 - Screenshot sound disabler
-- Reworked Volume Panel
 - Abel Music Player
 - Three Finger Screenshot
-- 4G/VoLTE icon on status bar
-- Long Screenshot
 - Long press volume to skip songs
 - Improved AOD ambient play ticker
-- QS rows/column numbers
-- Network speed indicator
+- FaceUnlock
+- Status bar tuner
+- Battery Stats
+- Hotspot Client Manager
+- Incall vibrations
+- Quick unlock
+- Expandable volume panel
+- Status bar time and date customization
+- Hotspot setting to allow VPN upstreams 
 - Some More which you are supposed to find xD
 - Much More Stuffs Coming Soon!
 
@@ -64,14 +71,9 @@ Telegram[/B]: [URL]https://t.me/project_404[/URL]
 - Flash ROM
 - Reboot!
 
-[B]ROM:[/B] [URL]https://downloads.project404.co/devices/device.html[/URL]
+[B]ROM:[/B] [URL]https://dl.project404.xyz [/URL]
 
 [B][SIZE=5]Credits[/SIZE][/B]
-- [url=https://github.com/PotatoProject] Team Potato [/url]
-- [url=https://github.com/AOSPA] Paranoid Android [/url]
-- [url=https://github.com/CarbonROM] CarbonROM [/url]
-- [url=https://github.com/LineageOS] LineageOS [/url]
-- [url=https://github.com/AOSiP] AOSiP [/url] [/CENTER]
 
 [B][U]Contributors[/U][/B]
 [USER=10379423]@username[/USER]
