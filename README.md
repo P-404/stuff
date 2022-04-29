@@ -2,9 +2,6 @@
 
 ![banner](dump/banner.png)
 
-**Having problems configuring gerrit?**
-Here's a [guide](https://gist.github.com/Yash-Garg/b328ec514f77f8519aac17136c0069d6) that will help.
-
 **You can find the XDA template here:** [Click Me!](XDA_ThreadTemplate.txt)
 
 # Maintainership Application
@@ -17,9 +14,9 @@ Here's a [guide](https://gist.github.com/Yash-Garg/b328ec514f77f8519aac17136c006
 
 -   Applicant should be having a good knowledge over the use of GitHub and Gerrit.
 -   A proper commit history with authorship should be maintained for all of the commits being done or cherry-picked.
--   The [build variant](https://source.android.com/setup/build/building#choose-a-target) should be *user* (p404_device-user) instead of the regular *userdebug* (p404_device-userdebug).
--   People maintaining more than 3 ROMs won't be allowed.
--   Applicant should have a Telegram Account to be in touch with the team.
+-   The [build variant](https://source.android.com/setup/build/building#choose-a-target) should be *user* (p404_device-user) or *userdebug* (p404_device-userdebug).
+-   People maintaining more than 2 ROMs won't be allowed.
+-   Applicant should have a Telegram Account to be in touch with the [team](https://t.me/project_404) .
 -   Be respectful towards everyone and don't spread hate.
 
 **Form can be found here:** [Maintainership Application Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdtC5marlgSWWy_bBbuZff2PANhSjqnFzaozPh4PGkm8sEUpg/viewform)
