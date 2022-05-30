@@ -1,6 +1,6 @@
 # Getting started with Project 404
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![banner](dump/banner.png)
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://project404.us/"><img src="https://avatars.githubusercontent.com/u/100293911?v=4?s=100" width="100px;" alt=""/><br /><sub><b>project404bot</b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=project404bot" title="Code">💻</a></td>
     <td align="center"><a href="http://t.me/namaskaragusthi"><img src="https://avatars.githubusercontent.com/u/82709617?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sena</b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=namaskaragusthi" title="Code">💻</a></td>
     <td align="center"><a href="https://without.live"><img src="https://avatars.githubusercontent.com/u/32866617?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Waxaranai</b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=Waxaranai" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Nesquirt"><img src="https://avatars.githubusercontent.com/u/60412798?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simone </b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=Nesquirt" title="Code">💻</a></td>
   </tr>
 </table>
 
