@@ -1,6 +1,6 @@
 # Getting started with Project 404
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![banner](dump/banner.png)
@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://without.live"><img src="https://avatars.githubusercontent.com/u/32866617?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Waxaranai</b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=Waxaranai" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Nesquirt"><img src="https://avatars.githubusercontent.com/u/60412798?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simone </b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=Nesquirt" title="Code">💻</a></td>
     <td align="center"><a href="http://anticovid.tech"><img src="https://avatars.githubusercontent.com/u/68729701?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sourav Jagtap</b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=resist15" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/clhexftw"><img src="https://avatars.githubusercontent.com/u/100755123?v=4?s=100" width="100px;" alt=""/><br /><sub><b>clhex</b></sub></a><br /><a href="https://github.com/P-404/stuff/commits?author=clhexftw" title="Code">💻</a></td>
   </tr>
 </table>
 
